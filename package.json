@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/c-cote/liri-node-app/issues"
   },
-  "homepage": "https://github.com/c-cote/liri-node-app#readme"
+  "homepage": "https://github.com/c-cote/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "homework"
+  ]
 }
